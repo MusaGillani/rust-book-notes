@@ -1,3 +1,3 @@
 # Description
 
-Code/notes related to chapters in "The rust lang" book 
+Code/notes related to chapters in ["The rust lang"](https://doc.rust-lang.org/book/) book 
